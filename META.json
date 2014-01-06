@@ -4,7 +4,7 @@
       "Ivan Baidakou <dmol@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.84, CPAN::Meta::Converter version 2.133380",
+   "generated_by" : "ExtUtils::MakeMaker version 6.86, CPAN::Meta::Converter version 2.133380",
    "license" : [
       "artistic_2"
    ],
@@ -28,7 +28,7 @@
       },
       "configure" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : "0"
+            "ExtUtils::PkgConfig" : "1.000"
          }
       },
       "runtime" : {
@@ -38,7 +38,7 @@
          }
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
    "resources" : {
       "bugtracker" : {
          "web" : "http://github.com/basiliscos/p5-Keybinder/issues"
@@ -51,5 +51,5 @@
          "url" : "http://github.com/basiliscos/p5-Keybinder"
       }
    },
-   "version" : "0.03"
+   "version" : "0.03_1"
 }

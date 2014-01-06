@@ -5,9 +5,9 @@ author:
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
-  ExtUtils::MakeMaker: 0
+  ExtUtils::PkgConfig: 1.000
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.84, CPAN::Meta::Converter version 2.133380'
+generated_by: 'ExtUtils::MakeMaker version 6.86, CPAN::Meta::Converter version 2.133380'
 license: artistic_2
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -26,4 +26,4 @@ resources:
   homepage: http://github.com/basiliscos/p5-Keybinder
   license: http://www.opensource.org/licenses/artistic-license-2.0
   repository: http://github.com/basiliscos/p5-Keybinder
-version: 0.03
+version: 0.03_1
